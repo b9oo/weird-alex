@@ -13,7 +13,7 @@ namespace custom {
     /**
      * TODO: adds a animation
      */
-    //% block="animation with frame variable $fra"
+    //% block="animation"
     export function alex(): Image[] {
         // Video: 200 frames at 160x120
         let frame = [
