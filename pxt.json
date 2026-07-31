@@ -1,6 +1,6 @@
 {
     "name": "Weird Alex",
-    "version": "23w41a",
+    "version": "0.2.0",
     "description": "",
     "dependencies": {
         "device": "*"
